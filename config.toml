@@ -1,0 +1,53 @@
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+paginate        = 6
+#SectionPagesMenu = "main"
+canonifyurls    = true
+
+[params]
+  title       = "Wellington Nascimento"
+  subtitle    = "Tecnologia e Desenvolvimento de Software"
+  copyright   = "© 2018"
+
+  logo        = ""
+  cover       = "img/blog-cover.jpg"
+  description = ""
+  metaDescription = ""
+  customCSS = []
+  RSSLink = "https://wellingtonjhn.com/index.xml"
+
+  twitterName = "wellingtonjhn"
+  fbName = ""
+  githubName = "wellingtonjhn"
+  linkedinName = "wellingtonjhn"
+  mediumName = "wellingtonjhn"
+
+  author = "Wellington Nascimento"
+  authorAvatar = "https://www.gravatar.com/avatar/4707efea5c9967b930833d088b04d4e2?s=300"
+  authorLocation = "São Paulo, Brasil"
+  authorWebsite = "https://www.wellingtonjhn.com"
+  authorDescription = ".Net Developer"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/posts/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+# [[menu.main]]
+#   name = "Categorias"
+#   url = "/categories/"
+#   weight = 99
+
+[params.integrations]
+  addThis = "ra-5ab436a5f03571e6"
+  googleAnalytics = "UA-116208526-1"
+  disqus = "wellingtonjhn"
