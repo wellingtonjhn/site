@@ -1,4 +1,4 @@
-baseurl               = "https://wellingtonjhn.com"
+baseurl               = "https://wellingtonjhn.com/"
 title                 = "wellingtonjhn.com"
 theme                 = "casper-two"
 languageCode          = "en-US"
