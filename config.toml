@@ -1,38 +1,39 @@
-baseurl         = "/"
-theme           = "casper-two"
-languageCode    = "en-US"
-paginate        = 6
+baseurl               = "https://wellingtonjhn.com"
+title                 = "wellingtonjhn.com"
+theme                 = "casper-two"
+languageCode          = "en-US"
+paginate              = 6
+rssLimit              = 20
+copyright             = "This work is licensed under MIT License."
 #SectionPagesMenu = "main"
-canonifyurls    = true
+canonifyurls          = true
 
 [params]
-  title       = "Wellington Nascimento"
-  subtitle    = "Tecnologia e Desenvolvimento de Software"
-  copyright   = "© 2018"
+  title               = "Wellington Nascimento"
+  subtitle            = "Tecnologia e Desenvolvimento de Software"
+  copyright           = "© 2018"
+  logo                = ""
+  cover               = "img/blog-cover.jpg"
+  description         = ""
+  metaDescription     = ""
+  customCSS           = []
+  RSSLink             = "https://wellingtonjhn.com/index.xml"
 
-  logo        = ""
-  cover       = "img/blog-cover.jpg"
-  description = ""
-  metaDescription = ""
-  customCSS = []
-  RSSLink = "https://wellingtonjhn.com/index.xml"
+  twitterName         = "wellingtonjhn"
+  fbName              = ""
+  githubName          = "wellingtonjhn"
+  linkedinName        = "wellingtonjhn"
+  mediumName          = "wellingtonjhn"
 
-  twitterName = "wellingtonjhn"
-  fbName = ""
-  githubName = "wellingtonjhn"
-  linkedinName = "wellingtonjhn"
-  mediumName = "wellingtonjhn"
+  author              = "Wellington Nascimento"
+  authorEmail         = "wellington.jhn@gmail.com"
+  authorAvatar        = "https://www.gravatar.com/avatar/4707efea5c9967b930833d088b04d4e2?s=300"
+  authorDescription   = ".Net Developer"
 
-  author = "Wellington Nascimento"
-  authorAvatar = "https://www.gravatar.com/avatar/4707efea5c9967b930833d088b04d4e2?s=300"
-  authorLocation = "São Paulo, Brasil"
-  authorWebsite = "https://www.wellingtonjhn.com"
-  authorDescription = ".Net Developer"
-
-  pageNotFoundTitle = "404 - Page not found"
+  pageNotFoundTitle   = "404 - Page not found"
 
   #casper or caspertwo
-  singleViewStyle = "casper"
+  singleViewStyle     = "casper"
 
 [permalinks]
   post = "/posts/:slug/"
