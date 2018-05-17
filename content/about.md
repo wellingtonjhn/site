@@ -14,8 +14,8 @@ weight = 111
 
 <p>Sou um profissional apaixonado por desenvolvimento e arquitetura de software.</p> 
 
-<p>Possuo mais de 9 anos de experiência com foco na plataforma Microsoft .Net.</p>
+<p>Possuo mais de 10 anos de experiência com foco na plataforma Microsoft .Net.</p>
 
-<p>Ajudo equipes de desenvolvimento a alcançar níveis mais elevados de <strong>qualidade</strong>, entregando aplicações <strong>robustas, escaláveis e modernas</strong>, sempre alinhadas com as expectativas do negócio.</p>
+<p>Ajudo equipes de desenvolvimento a alcançar níveis mais elevados de <strong>qualidade</strong>, entregando aplicações <strong>robustas, escaláveis e modernas</strong>.</p>
 
 <p>Atualmente sou líder técnico de uma equipe multidisciplinar composta por desenvolvedores back-end, front-end e mobile na <a href="https://www.easynvest.com.br" target="_blank"> Easynvest</a>.</p>
