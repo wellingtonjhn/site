@@ -6,7 +6,7 @@ description = "Veja como trabalhar com o usuário logado em uma API ASP.Net Core
 tags = ["aspnet", "aspnetcore", "jwt", "token", "auth", "json web token"]
 categories = ["Desenvolvimento", "ASP.Net"]
 nomenu = "main"
-image = ""
+image = "https://cdn-images-1.medium.com/max/9000/1*ctkWx-g2uUsUhQOCmUWq5Q.jpeg"
 +++
 
 No [artigo anterior](https://www.wellingtonjhn.com/posts/autentica%C3%A7%C3%A3o-em-apis-asp.net-core-com-jwt/) eu mostrei como criar uma API de autenticação em ASP.Net Core com JWT. Hoje iremos ver como podemos obter o usuário autenticado, extraindo os dados do token de uma forma muito simples.
@@ -36,3 +36,5 @@ Fazendo uso do **HttpContextAccessor** em conjunto com a injeção de dependênc
 Espero que tenham gostado e se ficou alguma dúvida, ou tenham críticas e sugestões entrem em contato.
 
 Abraços!
+
+Foto por [Nicole Harrington](https://unsplash.com/photos/gMJ3tFOLvnA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) em [Unsplash](https://unsplash.com/search/photos/document?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

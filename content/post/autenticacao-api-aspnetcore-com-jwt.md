@@ -6,7 +6,7 @@ description = "Aprenda a criar uma API de autenticação com ASP.Net Core"
 tags = ["aspnet", "aspnetcore", "jwt", "token", "auth", "json web token"]
 categories = ["Desenvolvimento", "ASP.Net"]
 nomenu = "main"
-image = ""
+image = "https://cdn-images-1.medium.com/max/6398/1*38zLFl8Bq_KvP8CruBQWBw.jpeg"
 +++
 
 A segurança de aplicações sempre foi, ou deveria ser, uma das principais preocupações dos times de desenvolvimento, e nos últimos anos a autenticação de APIs vem sendo bastante discutida nas comunidades técnicas em todo o mundo.
@@ -136,3 +136,5 @@ Abraços!
 * [RFC 7519: Json Web Token](https://tools.ietf.org/html/rfc7519)
 * [jwt.io](https://jwt.io)
 * [7 Best Practices fot Json Web Tokens](https://dev.to/neilmadden/7-best-practices-for-json-web-tokens)
+
+Foto por [Instagram.com/jamie_fenn](https://unsplash.com/photos/zSkHBXOjB0M?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) em [Unsplash](https://unsplash.com/search/photos/retina-scanner?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
