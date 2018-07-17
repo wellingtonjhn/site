@@ -13,6 +13,8 @@ O Mediator é um padrão de projeto Comportamental criado pelo GoF, que nos ajud
 
 Neste artigo iremos ver como podemos criar uma API ASP.Net Core que faz uso desse padrão de projeto usando a biblioteca [MediatR](https://github.com/jbogard/MediatR).
 
+> Não deixe de conferir um projeto de demonstração no qual faço uso do MediatR e que está no meu [Github](https://github.com/wellingtonjhn/DemoMediatR).
+
 ### MediatR
 
 O MediatR foi criado por [Jimmy Bogard](https://jimmybogard.com/), o mesmo criador do famoso [AutoMapper](https://github.com/jbogard/AutoMapper). Ele implementa o padrão de projeto Mediator de uma forma bem simples.
