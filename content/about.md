@@ -18,4 +18,6 @@ weight = 111
 
 <p>Ajudo equipes de desenvolvimento a alcançar níveis mais elevados de <strong>qualidade</strong>, entregando aplicações <strong>robustas, escaláveis e modernas</strong>.</p>
 
+<!--
 <p>Atualmente sou líder técnico de uma equipe multidisciplinar composta por desenvolvedores back-end, front-end e mobile na <a href="https://www.easynvest.com.br" target="_blank"> Easynvest</a>.</p>
+-->
