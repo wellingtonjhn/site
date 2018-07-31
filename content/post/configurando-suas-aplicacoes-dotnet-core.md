@@ -15,7 +15,7 @@ Com o lançamento do .Net Core e ASP.Net Core há alguns anos, ganhamos um novo
 
 Esse é um artigo introdutório, e imagino que alguns de vocês irão pensar que estou escrevendo ele fora de época ou que é muito simplista, e é pra ser mesmo, mas o que me motivou é que ainda vejo muitos desenvolvedores com alguma dificuldade ao trabalhar com o modelo de configuração do .Net Core. 
 
-O que pretendo aqui é mostrar alguns pontos que irão ajudar a entender como funciona esse novo mecanismo de configuração
+O que pretendo aqui é mostrar alguns pontos que irão ajudar a entender como esse novo mecanismo de configuração funciona.
 
 ### 1. Várias Fontes de Dados
 
