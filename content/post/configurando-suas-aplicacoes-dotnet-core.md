@@ -94,7 +94,7 @@ Não se preocupe em usar caixa alta na definição das variáveis de ambiente, o
 
 Além de ler os valores como string usando o método GetValue\<T\>, você pode fazer o parse para objetos definidos como classes POCO (Plain Old CLR Object). Hoje essa é uma das formas mais comuns ao se trabalhar com valores de configuração no .Net Core.
 
-Para isso usaremos o que é conhecido como [Options Pattern](https://docs.microsoft.com/pt-br/aspnet/core/fundamentals/configuration/options). Ele é útil para agruparmos configurações relacionadas entre si em objetos bem definidos.
+Para isso usaremos o que é conhecido como [Options Pattern](https://docs.microsoft.com/pt-br/aspnet/core/fundamentals/configuration/options?view=aspnetcore-2.1). Ele é útil para agruparmos configurações relacionadas entre si em objetos bem definidos.
 
 O primeiro passo é criar uma classe simples com as propriedades que compõem nosso objeto de configuração.
 
@@ -144,5 +144,5 @@ Abraços!
 
 ### Referências
 
-* [Documentação oficial](https://docs.microsoft.com/pt-br/aspnet/core/fundamentals/configuration/index)
-* [Options Pattern](https://docs.microsoft.com/pt-br/aspnet/core/fundamentals/configuration/options)
+* [Documentação oficial](https://docs.microsoft.com/pt-br/aspnet/core/fundamentals/configuration/index?view=aspnetcore-2.1&tabs=basicconfiguration)
+* [Options Pattern](https://docs.microsoft.com/pt-br/aspnet/core/fundamentals/configuration/options?view=aspnetcore-2.1)
