@@ -23,7 +23,7 @@ O Pipeline Behavior é bem parecido com o pipeline de execução do ASP.Net Cor
 
 ![](https://cdn-images-1.medium.com/max/2000/1*9QeDOotCpo5eboOd0GryhA.png)
 
-Para usar esse recurso do MediatR você deve criar uma classe que implementa a interface **IPipelineBehavior<TRequest, TResponse>**. Nessa classe iremos definir o comportamento que desejamos.
+Para usar esse recurso do MediatR você deve criar uma classe que implementa a interface **IPipelineBehavior\<TRequest, TResponse\>**. Nessa classe iremos definir o comportamento que desejamos.
 
 {{< gist e7c07f8116b47247592c88cb9d831b38 >}}
 

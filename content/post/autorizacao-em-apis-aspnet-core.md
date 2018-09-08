@@ -67,7 +67,7 @@ Você precisa criar um Requirement que deverá ser satisfeito durante a autoriza
 
 {{< gist a0c820a1a2242c82d66034058b04f03e >}} 
 
-Após criar o requirement, precisamos criar um handler que será responsável por validar se ele foi satisfeito, para isso fazemos uso da classe **AuthorizationHandler<TRequirement>** informando em sua definição o requirement que ela irá tratar.
+Após criar o requirement, precisamos criar um handler que será responsável por validar se ele foi satisfeito, para isso fazemos uso da classe **AuthorizationHandler\<TRequirement\>** informando em sua definição o requirement que ela irá tratar.
 
 {{< gist 74b7405703e3f55c29b716cf672fbe52 >}} 
 

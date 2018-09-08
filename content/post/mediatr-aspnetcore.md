@@ -23,7 +23,7 @@ Para instalar em seu projeto execute o seguinte comando:
 
     dotnet add package MediatR
 
-Basicamente temos dois componentes principais chamados de Request e Handler, que implementamos através das interfaces **IRequest** e **IRequestHandler<TRequest>** respectivamente.
+Basicamente temos dois componentes principais chamados de Request e Handler, que implementamos através das interfaces **IRequest** e **IRequestHandler\<TRequest\>** respectivamente.
 
 * Request → mensagem que será processada.
 
@@ -35,7 +35,7 @@ Basicamente temos dois componentes principais chamados de Request e Handler, que
 
 > Veja que a implementação acima apenas executa determinada tarefa e não tem nenhum retorno.
 
-Podemos ter um Request que irá devolver uma resposta para quem o invocou. No caso devemos implementar um Request que tem uma resposta associada à ele usando a interface **IRequest<TResponse>**.
+Podemos ter um Request que irá devolver uma resposta para quem o invocou. No caso devemos implementar um Request que tem uma resposta associada à ele usando a interface **IRequest\<TResponse\>**.
 
 {{< gist 9f901e1a931e9e99050688673f75ee09 >}}
 

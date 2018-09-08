@@ -79,7 +79,7 @@ Ela pode ser injetada em sua classe através do construtor e com isso podemos le
 
 Veja que a chave informada obedece a hierarquia que está no arquivo de configuração, com os nós separados por dois pontos **“:”**.
 
-Os valores sempre são armazenados como string por default, entretanto, veja que eu informo o tipo de dado apropriado para o retorno do valor para que seja feita a conversão apropriada, nesse caso, se você estiver lendo valores numéricos, pode fazer a chamada como **configuration.GetValue<int>(“chave”)** por exemplo.
+Os valores sempre são armazenados como string por default, entretanto, veja que eu informo o tipo de dado apropriado para o retorno do valor para que seja feita a conversão apropriada, nesse caso, se você estiver lendo valores numéricos, pode fazer a chamada como **configuration.GetValue\<int\>(“chave”)** por exemplo.
 
 Além dos valores de configuração armazenados em arquivos, você pode ler as variáveis de ambiente do seu sistema operacional.
 
