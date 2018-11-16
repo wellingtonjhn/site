@@ -85,3 +85,11 @@ A captura de exceções é uma parte crucial em todas as aplicações e o corret
 
 * [Documentação Oficial Microsoft — Error Handling](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/error-handling?view=aspnetcore-2.1)
 * [Documentação Oficial Microsoft — Middlewares](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-2.1)
+
+### UPDATE — 16/11/2018
+
+Existe uma especificação formal que basicamente define um formato padrão de mensagens de erro nas respostas de APIs HTTP. Esse padrão é conhecido como **Problem Details** e foi implementado no ASP.Net Core 2.1.
+
+Pretendo cobrí-lo em um artigo posterior como um complemento à este, já que a implementação é bem parecida ao que fizemos aqui.
+
+[RFC7807 — Problem Details for HTTP APIs](https://tools.ietf.org/html/rfc7807)
