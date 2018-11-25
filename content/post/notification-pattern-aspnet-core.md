@@ -25,6 +25,8 @@ O lançamento de exceptions no domínio traz alguns problemas:
 
 Uma abordagem superior seria usar **Notifications**!
 
+>  Você pode conferir os exemplos de código em meu [Github](https://github.com/wellingtonjhn/DemoNotifications).
+
 ### Notification Pattern
 
 Para capturar as mensagens das validações de domínio podemos usar o pattern Notification ou Domain Notification como também é conhecido, que foi descrito por Martin Folwer em um [artigo](https://martinfowler.com/eaaDev/Notification.html) de 2004, que também mostra um modelo de implementação em C#.
