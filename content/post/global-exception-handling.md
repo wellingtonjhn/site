@@ -93,3 +93,9 @@ Existe uma especificação formal que basicamente define um formato padrão de m
 Pretendo cobrí-lo em um artigo posterior como um complemento à este, já que a implementação é bem parecida ao que fizemos aqui.
 
 [RFC7807 — Problem Details for HTTP APIs](https://tools.ietf.org/html/rfc7807)
+
+### UPDATE — 19/01/2019
+
+Conforme prometi, escrevi um artigo que trata da implementação do padrão Problem Details (RFC 7807).
+
+[Padronização de Respostas de Erro em APIs com Problem Details](https://www.wellingtonjhn.com/posts/padroniza%C3%A7%C3%A3o-de-respostas-de-erro-em-apis-com-problem-details/)
