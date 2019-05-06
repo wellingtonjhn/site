@@ -45,7 +45,7 @@ As Exceptions são recursos extremamente valiosos e úteis para lidar com compor
 
 Apenas avalie cada caso, veja se realmente faz sentido lançar uma Exception para tudo que você queira dizer que está errado. 
 
-Então devemos parar de lançar exceptions no domínio? Depende!! Na camada de domínio eu acabo usando cada vez menos, não acho que faça muito sentido devido aos pontos que vimos acima, além disso o pattern Notification atende bem esse aspecto. Como eu disse, avalie cada caso e tome sua decisão.
+Então devemos parar de lançar exceptions no domínio? Depende!! Na camada de domínio eu acabo usando cada vez menos, não acho que faça muito sentido devido aos pontos que vimos acima, além disso o pattern Notification atende bem nesse aspecto. Como eu disse, avalie cada caso e tome sua decisão.
 
 Vale lembrar que esse artigo tem a intenção de mostrar como podemos fazer validações no domínio sem fazer o lançamento de Exceptions, mas com certeza seu uso será necessário em algum outro ponto do seu software.
 
