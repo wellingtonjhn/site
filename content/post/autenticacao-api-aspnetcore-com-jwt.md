@@ -132,9 +132,9 @@ Abraços!
 
 **Referências**
 
-* [Autenticação no ASP.Net Core](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/?view:aspnetcore-2.1)
+* [Autenticação no ASP.Net Core](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/?view=aspnetcore-2.1)
 * [RFC 7519: Json Web Token](https://tools.ietf.org/html/rfc7519)
 * [jwt.io](https://jwt.io)
 * [7 Best Practices fot Json Web Tokens](https://dev.to/neilmadden/7-best-practices-for-json-web-tokens)
 
-Foto por [Instagram.com/jamie_fenn](https://unsplash.com/photos/zSkHBXOjB0M?utm_source:unsplash&utm_medium:referral&utm_content:creditCopyText) em [Unsplash](https://unsplash.com/search/photos/retina-scanner?utm_source:unsplash&utm_medium:referral&utm_content:creditCopyText)
+Foto por [Instagram.com/jamie_fenn](https://unsplash.com/photos/zSkHBXOjB0M?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) em [Unsplash](https://unsplash.com/search/photos/retina-scanner?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
