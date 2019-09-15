@@ -1,13 +1,13 @@
-+++
-comments = true
-date = 2018-01-05
-title = "Badges"
-description = "Saiba como adicionar badges em seus arquivos de Readme"
-tags = ["badges"]
-categories = ["Desenvolvimento"]
-nomenu = "main"
-image = ""
-+++
+---
+comments : true
+date : 2018-01-05
+title : "Badges"
+description : "Saiba como adicionar badges em seus arquivos de Readme"
+tags : ["badges"]
+categories : ["Desenvolvimento"]
+nomenu : "main"
+image : ""
+---
 
 No [artigo anterior](https://wellingtonjhn.com/posts/ci-cd-com-travis-e-appveyor-usando-cake-e-.net-core/) vimos como configurar o Travis e AppVeyor para fazer todo o processo de build e deploy de um componente Nuget escrito em .Net Core. Agora veremos como podemos configurar **“badges”** em nosso repositório para exibir o status de build do nosso projeto.
 

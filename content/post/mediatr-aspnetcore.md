@@ -1,13 +1,13 @@
-+++
-comments = true
-date = 2018-03-30
-title = "MediatR com ASP.Net Core"
-description = "Aprenda a usar o MediatR em uma aplicação ASP.Net Core"
-tags = ["aspnet","aspnetcore", "mediatr", "design patterns"]
-categories = ["Desenvolvimento", "ASP.Net"]
-nomenu = "main"
-image = "https://cdn-images-1.medium.com/max/2000/1*KzQbnYDWP1qScTRtfBeOSQ.jpeg"
-+++
+---
+comments : true
+date : 2018-03-30
+title : "MediatR com ASP.Net Core"
+description : "Aprenda a usar o MediatR em uma aplicação ASP.Net Core"
+tags : ["aspnet","aspnetcore", "mediatr", "design patterns"]
+categories : ["Desenvolvimento", "ASP.Net"]
+nomenu : "main"
+image : "https://cdn-images-1.medium.com/max/2000/1*KzQbnYDWP1qScTRtfBeOSQ.jpeg"
+---
 
 O Mediator é um padrão de projeto Comportamental criado pelo GoF, que nos ajuda a garantir um baixo acoplamento entre os objetos de nossa aplicação. Ele permite que um objeto se comunique com outros sem saber suas estruturas. Para isso devemos definir um ponto central que irá encapsular como os objetos irão se comunicar uns com os outros.
 

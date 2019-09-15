@@ -1,13 +1,13 @@
-+++
-comments = true
-date = 2019-01-19
-title = "Padronização de Respostas de Erro em APIs com Problem Details"
-description = "Veja como implementar a RFC 7808 em APIs ASP.Net Core"
-tags = ["aspnet","aspnetcore", "problem details pattern", "design patterns"]
-categories = ["Desenvolvimento", "ASP.Net"]
-nomenu = "main"
-image = "https://cdn-images-1.medium.com/max/11976/1*a5N4vokpfnlmUnnJMou9zw.jpeg"
-+++
+---
+comments : true
+date : 2019-01-19
+title : "Padronização de Respostas de Erro em APIs com Problem Details"
+description : "Veja como implementar a RFC 7808 em APIs ASP.Net Core"
+tags : ["aspnet","aspnetcore", "problem details pattern", "design patterns"]
+categories : ["Desenvolvimento", "ASP.Net"]
+nomenu : "main"
+image : "https://cdn-images-1.medium.com/max/11976/1*a5N4vokpfnlmUnnJMou9zw.jpeg"
+---
 
 Como sabemos existem centenas de milhares de APIs no mundo, e a cada dia outras milhares surgem. Cada uma delas tem o seu próprio padrão de mensagens de erro, não existindo um consenso comum.
 

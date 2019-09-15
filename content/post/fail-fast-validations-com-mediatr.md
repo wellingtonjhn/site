@@ -1,13 +1,13 @@
-+++
-comments = true
-date = 2018-04-09
-title = "Fail-fast Validations com Pipeline Behavior no MediatR e ASP.Net Core"
-description = "Veja como implementar Fail-Fast Validations com MediatR em uma aplicação ASP.Net Core"
-tags = ["aspnet","aspnetcore", "mediatr", "design patterns"]
-categories = ["Desenvolvimento", "ASP.Net"]
-nomenu = "main"
-image = ""
-+++
+---
+comments : true
+date : 2018-04-09
+title : "Fail-fast Validations com Pipeline Behavior no MediatR e ASP.Net Core"
+description : "Veja como implementar Fail-Fast Validations com MediatR em uma aplicação ASP.Net Core"
+tags : ["aspnet","aspnetcore", "mediatr", "design patterns"]
+categories : ["Desenvolvimento", "ASP.Net"]
+nomenu : "main"
+image : ""
+---
 
 Sabemos que o MediatR simplifica muito o design de nossas aplicações tornando nosso código mais simples e com baixo acoplamento, conforme eu mostrei no [artigo anterior](https://www.wellingtonjhn.com/posts/mediatr-com-asp.net-core/). Se você não viu corre lá e depois volte aqui.
 

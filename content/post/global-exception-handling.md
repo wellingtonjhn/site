@@ -1,13 +1,13 @@
-+++
-comments = true
-date = 2018-11-05
-title = "Tratamento Global de Exceptions no ASP.Net Core"
-description = "Aprenda a capturar todas as Exceptions de sua aplicação"
-tags = ["aspnet","aspnetcore", "global-exception-handling", "exceptions"]
-categories = ["Desenvolvimento", "ASP.Net"]
-nomenu = "main"
-image = "https://cdn-images-1.medium.com/max/2000/0*f8VaTl-csq_uHv4b.png"
-+++
+---
+comments : true
+date : 2018-11-05
+title : "Tratamento Global de Exceptions no ASP.Net Core"
+description : "Aprenda a capturar todas as Exceptions de sua aplicação"
+tags : ["aspnet","aspnetcore", "global-exception-handling", "exceptions"]
+categories : ["Desenvolvimento", "ASP.Net"]
+nomenu : "main"
+image : "https://cdn-images-1.medium.com/max/2000/0*f8VaTl-csq_uHv4b.png"
+---
 
 Desde as primeiras versões do C# temos à nossa disposição o famoso bloco **try…catch**, onde podemos capturar exceções e tratá-las da melhor forma possível, seja gravando um log, adicionando uma mensagem amigável para o usuário, etc. Porém, muitas vezes não conseguimos prever todos os possíveis erros que possam acontecer e muitas exceções acabam “explodindo” na tela para o usuário, ou pior, causam a queda de nossos sistemas e até mesmo prejuízos financeiros para nossos clientes.
 

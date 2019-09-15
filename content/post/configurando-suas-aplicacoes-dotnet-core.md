@@ -1,13 +1,13 @@
-+++
-comments = true
-date = 2018-07-30
-title = "Configurando suas aplicações .Net Core"
-description = "Veja algumas dicas para configurar suas aplicações .Net Core"
-tags = ["dotnetcore","aspnetcore", "configuration", "options pattern"]
-categories = ["Desenvolvimento", "ASP.Net"]
-nomenu = "main"
-image = "https://cdn-images-1.medium.com/max/12032/1*Zv5KXdAW988QNEeyKlB83A.jpeg"
-+++
+---
+comments : true
+date : 2018-07-30
+title : "Configurando suas aplicações .Net Core"
+description : "Veja algumas dicas para configurar suas aplicações .Net Core"
+tags : ["dotnetcore","aspnetcore", "configuration", "options pattern"]
+categories : ["Desenvolvimento", "ASP.Net"]
+nomenu : "main"
+image : "https://cdn-images-1.medium.com/max/12032/1*Zv5KXdAW988QNEeyKlB83A.jpeg"
+---
 
 Antigamente tínhamos os arquivos Web.Config e App.Config em nossas aplicações .Net Framework que na verdade eram arquivos XML onde podíamos colocar as configurações de nossas aplicações, e em conjunto à eles usávamos a classe **ConfigurationManager** para acessá-los. Muitas vezes esses arquivos se tornavam verdadeiros monstros e sua manutenção traumatizante para muitos desenvolvedores.
 

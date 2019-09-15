@@ -1,13 +1,13 @@
-+++
-comments = true
-date = 2018-09-08
-title = "Validando Objetos de Configuração no .Net Core"
-description = "Veja como validar objetos de configuração no .Net Core"
-tags = ["dotnetcore","aspnetcore", "configuration", "options pattern"]
-categories = ["Desenvolvimento", "ASP.Net"]
-nomenu = "main"
-image = "https://cdn-images-1.medium.com/max/8512/1*e7O7A5rM79ng6b8Dc3EbEg.jpeg"
-+++
+---
+comments : true
+date : 2018-09-08
+title : "Validando Objetos de Configuração no .Net Core"
+description : "Veja como validar objetos de configuração no .Net Core"
+tags : ["dotnetcore","aspnetcore", "configuration", "options pattern"]
+categories : ["Desenvolvimento", "ASP.Net"]
+nomenu : "main"
+image : "https://cdn-images-1.medium.com/max/8512/1*e7O7A5rM79ng6b8Dc3EbEg.jpeg"
+---
 
 No [artigo anterior](https://www.wellingtonjhn.com/posts/configurando-suas-aplica%C3%A7%C3%B5es-.net-core/) eu falei sobre alguns conceitos básicos do modelo de configuração do .Net Core, e um dos itens abordados é a possibilidade de podermos usar objetos POCO para representar grupos de configuração relacionadas entre si usando [Options Pattern](https://docs.microsoft.com/pt-br/aspnet/core/fundamentals/configuration/options?view=aspnetcore-2.1).
 

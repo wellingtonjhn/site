@@ -1,13 +1,13 @@
-+++
-comments = true
-date = 2018-06-10
-title = "Documentação de APIs com Swagger no ASP.Net Core"
-description = "Aprenda a configurar o Swagger corretamente"
-tags = ["aspnet", "aspnetcore", "swagger", "documentação"]
-categories = ["Desenvolvimento", "ASP.Net"]
-nomenu = "main"
-image = "https://cdn-images-1.medium.com/max/2000/1*_6Abwv6Dd_I8GBtlRp6XeA.png"
-+++
+---
+comments : true
+date : 2018-06-10
+title : "Documentação de APIs com Swagger no ASP.Net Core"
+description : "Aprenda a configurar o Swagger corretamente"
+tags : ["aspnet", "aspnetcore", "swagger", "documentação"]
+categories : ["Desenvolvimento", "ASP.Net"]
+nomenu : "main"
+image : "https://cdn-images-1.medium.com/max/2000/1*_6Abwv6Dd_I8GBtlRp6XeA.png"
+---
 
 Não basta apenas desenvolver nossas aplicações e largar na mão dos times que farão uso delas. Uma boa documentação é um dos quesitos chave para o sucesso de todo sistema hoje em dia, ainda mais em um mundo de APIs que vivemos hoje, onde existem cada vez mais integrações entre aplicações e serviços.
 

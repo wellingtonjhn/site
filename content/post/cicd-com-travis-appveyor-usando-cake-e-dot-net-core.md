@@ -1,13 +1,13 @@
-+++
-comments = true
-date = 2018-01-04
-title = "CI-CD com Travis e AppVeyor usando Cake e .Net Core"
-description = "Aprenda a fazer deploys automatizados de seus pacotes Nuget com Cake e .Net Core"
-tags = ["cicd", "cake", "dotnetcore", "build", "test", "nuget", "appveyor", "travis"]
-categories = ["Desenvolvimento", "CICD"]
-nomenu = "main"
-image = "https://cdn-images-1.medium.com/max/3536/1*YbCRY0k7lwUDQUfRpyAVjw.png"
-+++
+---
+comments : true
+date : 2018-01-04
+title : "CI-CD com Travis e AppVeyor usando Cake e .Net Core"
+description : "Aprenda a fazer deploys automatizados de seus pacotes Nuget com Cake e .Net Core"
+tags : ["cicd", "cake", "dotnetcore", "build", "test", "nuget", "appveyor", "travis"]
+categories : ["Desenvolvimento", "CICD"]
+nomenu : "main"
+image : "https://cdn-images-1.medium.com/max/3536/1*YbCRY0k7lwUDQUfRpyAVjw.png"
+---
 
 No [artigo anterior](https://wellingtonjhn.com/posts/automatizando-tarefas-de-build-teste-e-deploy-de-pacotes-nuget-com-cake-e-.net-core/) usamos o Cake para fazer build, executar testes, gerar pacotes e deploy no repositorio oficial do Nuget através de um script de tarefas. Se você não viu corre lá e depois volte aqui.
 

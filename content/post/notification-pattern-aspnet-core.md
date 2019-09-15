@@ -1,13 +1,13 @@
-+++
-comments = true
-date = 2018-11-25
-title = "Não lance Exceptions em seu Domínio… Use Notifications!"
-description = "Aprenda a usar o padrão Notifications em seu domínio"
-tags = ["aspnet", "aspnetcore", "notification pattern", "design patterns"]
-categories = ["Desenvolvimento", "ASP.Net"]
-nomenu = "main"
-image = "https://cdn-images-1.medium.com/max/6400/1*1JRIBJZtMRT8U6NfoDhbcA.jpeg"
-+++
+---
+comments : true
+date : 2018-11-25
+title : "Não lance Exceptions em seu Domínio… Use Notifications!"
+description : "Aprenda a usar o padrão Notifications em seu domínio"
+tags : ["aspnet", "aspnetcore", "notification pattern", "design patterns"]
+categories : ["Desenvolvimento", "ASP.Net"]
+nomenu : "main"
+image : "https://cdn-images-1.medium.com/max/6400/1*1JRIBJZtMRT8U6NfoDhbcA.jpeg"
+---
 
 É muito comum encontrar nos sistemas corporativos o lançamento de Exceptions ao realizar validações de regras de negócio, afinal de contas é necessário informar ao usuário que algo deu errado.
 

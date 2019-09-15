@@ -1,15 +1,13 @@
-+++
-comments = true
-date = 2018-05-31
-title = "Autorização em APIs ASP.Net Core"
-description = "Aprenda a autorizar o acesso à suas APIs"
-tags = ["aspnet", "aspnetcore", "jwt", "auth", "authorization"]
-categories = ["Desenvolvimento", "ASP.Net"]
-nomenu = "main"
-image = "https://cdn-images-1.medium.com/max/12000/1*bfOAJYIfkbxZ5SmrMLyJig.jpeg"
-+++
-
-
+---
+comments : true
+date : 2018-05-31
+title : "Autorização em APIs ASP.Net Core"
+description : "Aprenda a autorizar o acesso à suas APIs"
+tags : ["aspnet", "aspnetcore", "jwt", "auth", "authorization"]
+categories : ["Desenvolvimento", "ASP.Net"]
+nomenu : "main"
+image : "https://cdn-images-1.medium.com/max/12000/1*bfOAJYIfkbxZ5SmrMLyJig.jpeg"
+---
 
 Em um [artigo anterior](https://www.wellingtonjhn.com/posts/autentica%C3%A7%C3%A3o-em-apis-asp.net-core-com-jwt) eu falei sobre a criação de uma API de Autenticação utilizando ASP.Net Core. Hoje quero falar um pouco sobre como podemos fazer a Autorização de nossos usuários dentro das APIs.
 

@@ -1,13 +1,13 @@
-+++
-comments = true
-date = 2018-07-17
-title = "Autenticação em APIs ASP.Net Core com JWT - Refresh Token"
-description = "Aprenda a fazer a atualização de um token JWT em uma API de autenticação com ASP.Net Core"
-tags = ["aspnet", "aspnetcore", "jwt", "token", "auth", "json web token", "refresh token"]
-categories = ["Desenvolvimento", "ASP.Net"]
-nomenu = "main"
-image = "https://cdn-images-1.medium.com/max/8064/1*L7LnUlxd1M4nV_D1Mr42Fg.jpeg"
-+++
+---
+comments : true
+date : 2018-07-17
+title : "Autenticação em APIs ASP.Net Core com JWT - Refresh Token"
+description : "Aprenda a fazer a atualização de um token JWT em uma API de autenticação com ASP.Net Core"
+tags : ["aspnet", "aspnetcore", "jwt", "token", "auth", "json web token", "refresh token"]
+categories : ["Desenvolvimento", "ASP.Net"]
+nomenu : "main"
+image : "https://cdn-images-1.medium.com/max/8064/1*L7LnUlxd1M4nV_D1Mr42Fg.jpeg"
+---
 
 Quando trabalhamos com autenticação baseada em tokens JWT temos que considerar que ele tem um tempo de expiração que irá invalidá-lo em determinado momento. Em alguns cenários pode ser interessante obter um novo token de acesso sem precisar forçar o usuário a fazer um novo login informando seu usuário e senha. Isso é muito comum quando trabalhamos com aplicativos mobile.
 

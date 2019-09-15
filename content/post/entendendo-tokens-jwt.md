@@ -1,13 +1,13 @@
-+++
-comments = true
-date = 2018-02-26
-title = "Entendendo tokens JWT"
-description = "Neste artigo você irá conhecer os principais conceitos sobre tokens JWT"
-tags = ["jwt", "token", "auth", "json web token"]
-categories = ["Segurança"]
-nomenu = "main"
-image = "https://cdn-images-1.medium.com/max/1100/1*Nnu-OC1BbymgvpOiY9nvwg.png"
-+++
+---
+comments : true
+date : 2018-02-26
+title : "Entendendo tokens JWT"
+description : "Neste artigo você irá conhecer os principais conceitos sobre tokens JWT"
+tags : ["jwt", "token", "auth", "json web token"]
+categories : ["Segurança"]
+nomenu : "main"
+image : "https://cdn-images-1.medium.com/max/1100/1*Nnu-OC1BbymgvpOiY9nvwg.png"
+---
 
 O JWT é um padrão ([RFC-7519](https://tools.ietf.org/html/rfc7519)) de mercado que define como transmitir e armazenar objetos JSON de forma compacta e segura entre diferentes aplicações. Os dados nele contidos podem ser validados a qualquer momento pois o token é assinado digitalmente.
 

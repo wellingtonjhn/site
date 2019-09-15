@@ -1,13 +1,13 @@
-+++
-comments = true
-date = 2018-03-17
-title = "Compressão de Respostas em APIs ASP.Net Core"
-description = "Aprenda a comprimir as respostas de suas APIs"
-tags = ["aspnet","aspnetcore", "compression"]
-categories = ["Desenvolvimento", "ASP.Net"]
-nomenu = "main"
-image = "https://cdn-images-1.medium.com/max/1375/1*Z3dPy3OGwFAYtwzRFF7E2g.jpeg"
-+++
+---
+comments : true
+date : 2018-03-17
+title : "Compressão de Respostas em APIs ASP.Net Core"
+description : "Aprenda a comprimir as respostas de suas APIs"
+tags : ["aspnet","aspnetcore", "compression"]
+categories : ["Desenvolvimento", "ASP.Net"]
+nomenu : "main"
+image : "https://cdn-images-1.medium.com/max/1375/1*Z3dPy3OGwFAYtwzRFF7E2g.jpeg"
+---
 
 Quando estamos desenvolvendo nossas APIs é muito importante nos preocuparmos com o tráfego de mensagens que ela irá gerar, pois largura de banda é um recurso limitado e não podemos esperar que nossos clientes irão poder contar com conexões de banda larga via fibra ótica à todo momento, ou ainda, conexões 4G ultra velozes sem limites de dados. Infelizmente essa não é a nossa realidade ainda... =/
 
