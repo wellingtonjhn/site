@@ -29,6 +29,7 @@ Tenho mais de 10 anos de experiência desenvolvendo software profissional para a
 Sou um profissional apaixonado por arquitetura e desenvolvimento de software na plataforma Microsoft .Net, sendo esses os assuntos que eu mais abordo em meus artigos.
 
 Hoje, meu foco de trabalho principal é com aplicações de backend, mais especificamente no desenvolvimento de microsserviços e APIs em ASP.Net Core. De vez em quando sujo as mãos com aplicações legadas (WebForms, Visual Basic, etc), mas só quando necessário. No passado me considerava full-stack developer, mas acabei parando de desenvolver para frontend por algum motivo qualquer que não lembro agora. Hoje tento cada vez mais me especializar em práticas e padrões de arquitetura de software e backend.
+
 Sou adepto de boas práticas de programação, código limpo, e gosto de horários flexíveis. :)
 
 
