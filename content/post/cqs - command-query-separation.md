@@ -36,7 +36,7 @@ Você verá que nem sempre é possível aplicar o CQS. Um bom exemplo disso est�
 
 ### Conclusão
 
-Em minha opinião, é uma boa idéia considerar o CQS como uma prática de programação que devemos seguir sempre, e abrir uma exceção à ele somente e quando for necessário, conforme vimos acima.
+Em minha opinião, é uma boa idéia considerar o CQS como uma prática de programação que devemos seguir sempre, e abrir uma exceção à ele somente quando for necessário, conforme vimos acima.
 
 Apenas para salientar, devemos levar em consideração que CQS não é CQRS (Command Query Responsibility Segregation), existe uma certa confusão entre os dois patterns hoje em dia, pretendo escrever mais sobre CQRS futuramente.
 
