@@ -10,8 +10,8 @@ canonifyurls          = true
 
 [params]
   title               = "Wellington Nascimento"
-  subtitle            = "Tecnologia e Desenvolvimento de Software"
-  copyright           = "© 2018"
+  subtitle            = "Arquitetura e Desenvolvimento de Software"
+  copyright           = "© 2019 Todos os direitos reservados."
   logo                = ""
   cover               = "img/blog-cover.jpg"
   description         = ""
