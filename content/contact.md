@@ -10,6 +10,6 @@ type = "page"
 weight = 99
 +++
 
-Caso você tenha alguma crítica, sugestão, ou apenas queira bater um papo, fique à vontade para entrar em contato comigo. Irei responder assim que possível. 
+Caso você tenha alguma crítica, sugestão, ou apenas queira bater um papo, fique à vontade para entrar em contato. Irei responder assim que possível. 
 
 {{< contact >}}
