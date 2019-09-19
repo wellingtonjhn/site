@@ -1,15 +1,14 @@
 ---
-title: CQS  -  Command Query Separation
-date: '2019-09-15T16:05:31+01:00'
-categories:
-  - Desenvolvimento
-tags:
-  - cqs
-  - design patterns
-autoThumbnailImage: false
-thumbnailImagePosition: left
-coverImage: ''
+comments : true
+date : 2019-09-15
+title : "CQS  -  Command Query Separation"
+description : "Aprenda a criar métodos mais concisos com o pattern CQS"
+tags : ["cqs", "design patterns", "jwt", "auth", "authorization"]
+categories : ["Desenvolvimento"]
+nomenu : "main"
+image : 
 ---
+
 O [CQS (Command Query Separation)](https://martinfowler.com/bliki/CommandQuerySeparation.html) é um pattern introduzido por **Bertrand Meyer** no livro **[Object Oriented Software Construction](https://www.amazon.com/gp/product/0136291554)**, com a primeira edição publicada em 1988, e a segunda, revisada e expandida em 1997.
 
 A idéia principal é que os métodos de uma aplicação podem ser **comandos** (commands) ou **consultas** (queries), mas nunca ambos.
