@@ -12,13 +12,13 @@ coverImage: ''
 ---
 O [CQS (Command Query Separation)](https://martinfowler.com/bliki/CommandQuerySeparation.html) é um pattern introduzido por **Bertrand Meyer** no livro **[Object Oriented Software Construction](https://www.amazon.com/gp/product/0136291554)**, com a primeira edição publicada em 1988, e a segunda, revisada e expandida em 1997.
 
-A idéia central é que os métodos de uma aplicação podem ser **commands** (comandos) ou **queries** (consultas), mas nunca ambos.
+A idéia principal é que os métodos de uma aplicação podem ser **comandos** (commands) ou **consultas** (queries), mas nunca ambos.
 
 Temos então:
 
-* Commands: métodos que alteram o estado (mudança de valores) do objeto que o define sem retornar nenhum valor (deve ser “void”), e causam efeitos colaterais no sistema.
+* Commands: métodos que alteram estado (mudam valores) sem retornar nenhum valor, e causam efeitos colaterais no sistema.
 
-* Queries: métodos que retornam valores, mas não alteram o estado do objeto que o define.
+* Queries: métodos que retornam valores, mas não alteram estado.
 
 ![](https://cdn-images-1.medium.com/max/2000/1*ISZtRPbcJbGb1A4R0l7Oag.png)
 
@@ -36,7 +36,7 @@ Você verá que nem sempre é possível aplicar o CQS. Um bom exemplo disso est�
 
 ### Conclusão
 
-Em minha opinião, é uma boa idéia considerar o CQS como uma prática de programação que devemos seguir sempre, e abrir uma exceção à ele somente quando for necessário, conforme vimos acima.
+Em minha opinião, é uma boa idéia considerar o CQS como uma prática de programação que devemos sempre seguir. Também podemos abrir uma exceção à ele quando for necessário, conforme vimos acima com o exemplo da classe Stack.
 
 Apenas para salientar, devemos levar em consideração que CQS não é CQRS (Command Query Responsibility Segregation), existe uma certa confusão entre os dois patterns hoje em dia, pretendo escrever mais sobre CQRS futuramente.
 
@@ -46,8 +46,8 @@ Abraços!
 
 ### Referências
 
-* [https://martinfowler.com/bliki/CommandQuerySeparation.html](https://martinfowler.com/bliki/CommandQuerySeparation.html)
+* [Command Query Separation — Martin Fowler](https://martinfowler.com/bliki/CommandQuerySeparation.html)
 
-* [https://robsoncastilho.com.br/2013/02/06/principios-solid-principio-da-responsabilidade-unica-srp/](https://robsoncastilho.com.br/2013/02/06/principios-solid-principio-da-responsabilidade-unica-srp/)
+* [Princípios SOLID: Princípio da Responsabilidade Única (SRP)](https://robsoncastilho.com.br/2013/02/06/principios-solid-principio-da-responsabilidade-unica-srp/)
 
-* [https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/refactoring-into-pure-functions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/refactoring-into-pure-functions)
+* [Refactoring Into Pure Functions (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/refactoring-into-pure-functions)
