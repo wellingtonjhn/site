@@ -1,5 +1,5 @@
 ---
-title: CQS - Command Query Separation
+title: CQS  -  Command Query Separation
 date: '2019-09-15T16:05:31+01:00'
 categories:
   - Desenvolvimento
