@@ -3,7 +3,7 @@ comments : true
 date : 2019-09-15
 title : "CQS  -  Command Query Separation"
 description : "Aprenda a criar métodos mais concisos com o pattern CQS"
-tags : ["cqs", "design patterns", "jwt", "auth", "authorization"]
+tags : ["cqs", "design patterns" ]
 categories : ["Desenvolvimento"]
 nomenu : "main"
 image : 
