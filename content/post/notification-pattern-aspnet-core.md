@@ -29,7 +29,7 @@ Com isso, uma melhor abordagem para notificar mensagens da camada de domínio pa
 
 ### Mas antes, um breve disclaimer…
 
-Em uma primeira versão desse mesmo artigo, por descuido meu, acabei esquecendo esse importante disclaimer, além de alguns pontos do texto não ficarem bem contextualizados segundo foi relatado, o que possívelmente abriu margem para um entendimento errado do que eu queria realmente dizer, vou tomar mais cuidado com isso nos próximos posts. Se você já leu esse artigo anteriormente e sentiu isso, peço sinceras desculpas pela interpretação errônea que meu texto passou, e convido você a refazer essa leitura.
+Em uma primeira versão desse mesmo artigo, por descuido meu, acabei esquecendo esse importante disclaimer, além de alguns pontos do texto não terem ficado bem contextualizados segundo foi relatado, o que possívelmente abriu margem para um entendimento errado do que eu queria realmente dizer, vou tomar mais cuidado com isso nos próximos posts. Se você já leu esse artigo anteriormente e sentiu isso, peço sinceras desculpas pela interpretação errônea que meu texto passou, e convido você a refazer essa leitura.
 
 Vale lembrar que não tenho nada contra o uso de Exceptions, também não estou tentando “endemonizar” seu uso, ou “vender um conceito errado para a comunidade” como fui “acusado” recentemente.
 
