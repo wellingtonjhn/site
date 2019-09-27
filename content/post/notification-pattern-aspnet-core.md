@@ -35,13 +35,13 @@ Vale lembrar que não tenho nada contra o uso de Exceptions, também não estou 
 
 As **Exceptions são recursos extremamente valiosos e úteis**, são parte fundamental de várias plataformas de desenvolvimento, e além disso, eu não sou ninguém para dizer que você não deve usá-las. Pelo contrário, eu também faço uso desse importante recurso como qualquer outro desenvolvedor e você também deveria usar.
 
-Apenas avalie cada caso, veja se realmente faz sentido lançar uma Exception para tudo que você queira dizer que está “errado”.
+Apenas avalie cada caso, veja se realmente faz sentido lançar uma Exception para tudo que você queira dizer que está errado.
 
 Além disso, eu não criei o Notification Pattern ou as boas práticas sobre o uso de Exceptions, então **te convido à ler as referências no final desse artigo**, algumas delas são bem longas, mas vale muito a pena.
 
 Lembrando que esse artigo tem a intenção de mostrar uma das diversas formas de como podemos notificar mensagens de validações do domínio sem fazer o lançamento de Exceptions, mas isso não quer dizer que elas devem ser descartadas de sua base de código, com certeza elas são necessárias em diversos pontos do seu software.
 
-Também não vou entrar no mérito se devemos ou não lançar Exceptions na entrada de parâmetros de métodos, afinal sabemos que é uma boa prática de programação defensiva validar os argumentos com **[Guard Clauses](http://www.stavroskasidis.com/blog/2017/tips-and-tricks-1-guard-clauses/)**, principalmente se você desenvolve bibliotecas de código.
+Também não vou entrar no mérito sobre lançar Exceptions na validação de parâmetros de métodos, afinal sabemos que é uma boa prática de programação defensiva validar os argumentos com **[Guard Clauses](http://www.stavroskasidis.com/blog/2017/tips-and-tricks-1-guard-clauses/)**, principalmente se você desenvolve bibliotecas de código.
 
 Se você discordar de mim em qualquer ponto, sem problemas, fique à vontade em abrir uma discussão aqui nos comentários, terei o maior prazer em conversarmos e ver os prós e contras de cada abordagem.
 
