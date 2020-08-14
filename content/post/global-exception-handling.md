@@ -12,6 +12,7 @@ image : "https://cdn-images-1.medium.com/max/2000/0*f8VaTl-csq_uHv4b.png"
 Desde as primeiras versões do C# temos à nossa disposição o famoso bloco **try…catch**, onde podemos capturar exceções e tratá-las da melhor forma possível, seja gravando um log, adicionando uma mensagem amigável para o usuário, etc. Porém, muitas vezes não conseguimos prever todos os possíveis erros que possam acontecer e muitas exceções acabam “explodindo” na tela para o usuário, ou pior, causam a queda de nossos sistemas e até mesmo prejuízos financeiros para nossos clientes.
 
 Uma forma de prevenir que ocorram exceptions não tratadas é fazendo o seu gerenciamento de forma global, assim podemos ter um local centralizado onde todas as exceções são capturadas, facilitando a manutenção e deixando nossas classes mais limpas e legíveis, sem a necessidade de usar o bloco **try…catch** em cada método de seu sistema.
+
 >  O uso exagerado do bloco **try…catch** pode tornar o código mais verboso e sua leitura difícil, tenha bom senso, você pode usá-lo onde realmente irá tratar a exception, gerar um log específico, tomar uma ação efetiva, etc… caso contrário, deixe a exception subir a stack e ser capturada pelo filtro global.
 
 Existem diversas formas de se tratar as exceptions de forma global, seja usando Middlewares, Action Filters, ferramentas específicas de AOP (Aspect-Oriented Programming), entre outros. Hoje veremos como fazer isso com Middlewares.
