@@ -14,16 +14,19 @@ weight = 111
 
 ### Sobre o blog
 
-Bem-vindo ao meu blog, ele foi criado para que eu possa compartilhar minha experiência e aprendizados nas tecnologias que eu uso em meu dia a dia, de forma que eu possa ajudar outros desenvolvedores a alcançar níveis mais altos de qualidade em seu trabalho.
+Bem-vindo ao meu blog, ele foi criado para que eu possa compartilhar minha experiência e aprendizados nas tecnologias que eu uso em meu dia a dia, de forma que eu também possa ajudar outros desenvolvedores a alcançar níveis mais altos de qualidade em seu trabalho.
 
 Alguns artigos desse blog também foram publicados em outros portais especializados como [iMasters](https://imasters.com.br/perfil/wellingtonnascimento) e [Tableless](https://tableless.com.br/authors/wellington-nascimento/).
 
 Também possuo uma versão dos meus artigos no [Medium](https://medium.com/@wellingtonjhn), onde tenho uma boa audiência.
 
+Todo o conteúdo desse site, técnico ou não, é apenas minha opinião e a forma como as coisas deram certo para mim. Você pode ter opiniões e experiências diferentes, e está tudo bem. :)
+
+Ahh.. não deixe de se inscrever abaixo para receber minhas atualizações.
 
 ### Sobre mim
 
-Meu nome é Wellington Nascimento, sou brasileiro, nasci e cresci em São Paulo, hoje moro na Europa onde trabalho e vivo com minha maravilhosa esposa e nossos cães que consideramos como filhos, um deles tem mais de 20 anos (sério) e tem uma saúde melhor que a minha. :)
+Meu nome é Wellington Nascimento, sou brasileiro, nasci e cresci em São Paulo, hoje moro na Europa onde trabalho e vivo com minha esposa e nossos cães que consideramos como filhos, um deles tem mais de 20 anos (sério) e tem uma saúde melhor que a minha. :)
 
 Tenho mais de 10 anos de experiência desenvolvendo software profissional para as mais diversas áreas de atuação no Brasil e na Europa, como plataformas de e-Commerce, plataformas de cobrança (Call-Center), instituições financeiras (Fintechs) e de ensino superior.
 
@@ -36,4 +39,4 @@ Sou adepto de boas práticas de programação, código limpo, e gosto de horári
 
 ### Contato
 
-Questões? Comentários? Sinta-se livre para me [enviar uma mensagem](https://www.wellingtonjhn.com/contact/).
+Dúvidas? Sugestões? Sinta-se livre para me [enviar uma mensagem](https://www.wellingtonjhn.com/contact/).
