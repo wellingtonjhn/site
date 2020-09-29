@@ -4,7 +4,7 @@ date : 2018-05-31
 title : "Autorização em APIs ASP.Net Core"
 description : "Aprenda a autorizar o acesso à suas APIs"
 tags : ["aspnet", "aspnetcore", "jwt", "auth", "authorization"]
-categories : ["Desenvolvimento", "ASP.Net"]
+categories : ["Desenvolvimento", "ASP.Net Core", "Segurança", "JWT"]
 nomenu : "main"
 image : "https://cdn-images-1.medium.com/max/12000/1*bfOAJYIfkbxZ5SmrMLyJig.jpeg"
 ---
