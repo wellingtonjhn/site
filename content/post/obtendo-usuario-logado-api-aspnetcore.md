@@ -3,8 +3,7 @@ comments : true
 date : 2018-05-12
 title : "Obtendo o Usuário Logado em APIs ASP.Net Core"
 description : "Veja como trabalhar com o usuário logado em uma API ASP.Net Core"
-tags : ["aspnet", "aspnetcore", "jwt", "token", "auth", "json web token"]
-categories : ["Desenvolvimento", "ASP.Net Core", "Segurança", "JWT"]
+tags : ["aspnetcore", "jwt", "auth", "json web token"]
 nomenu : "main"
 image : "https://cdn-images-1.medium.com/max/9000/1*ctkWx-g2uUsUhQOCmUWq5Q.jpeg"
 ---

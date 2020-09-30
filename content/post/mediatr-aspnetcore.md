@@ -3,8 +3,7 @@ comments : true
 date : 2018-03-30
 title : "MediatR com ASP.Net Core"
 description : "Aprenda a usar o MediatR em uma aplicação ASP.Net Core"
-tags : ["aspnet","aspnetcore", "mediatr", "design patterns"]
-categories : ["Desenvolvimento", "ASP.Net"]
+tags : ["aspnetcore", "mediatr", "design patterns"]
 nomenu : "main"
 image : "https://cdn-images-1.medium.com/max/2000/1*KzQbnYDWP1qScTRtfBeOSQ.jpeg"
 ---

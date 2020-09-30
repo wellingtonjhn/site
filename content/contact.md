@@ -7,7 +7,7 @@ share = false
 title = "Contato"
 type = "page"
 [menu.main]
-weight = 99
+weight = 1
 +++
 
 Caso você tenha alguma crítica, sugestão, ou apenas queira bater um papo, fique à vontade para entrar em contato. Irei responder assim que possível. 

@@ -4,7 +4,6 @@ date : 2018-07-30
 title : "Configurando suas aplicações .Net Core"
 description : "Veja algumas dicas para configurar suas aplicações .Net Core"
 tags : ["dotnetcore","aspnetcore", "configuration", "options pattern"]
-categories : ["Desenvolvimento", "ASP.Net"]
 nomenu : "main"
 image : "https://cdn-images-1.medium.com/max/12032/1*Zv5KXdAW988QNEeyKlB83A.jpeg"
 ---

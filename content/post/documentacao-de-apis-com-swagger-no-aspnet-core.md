@@ -3,8 +3,7 @@ comments : true
 date : 2018-06-10
 title : "Documentação de APIs com Swagger no ASP.Net Core"
 description : "Aprenda a configurar o Swagger corretamente"
-tags : ["aspnet", "aspnetcore", "swagger", "documentação"]
-categories : ["Desenvolvimento", "ASP.Net"]
+tags : ["aspnetcore", "swagger", "documentação"]
 nomenu : "main"
 image : "https://cdn-images-1.medium.com/max/2000/1*_6Abwv6Dd_I8GBtlRp6XeA.png"
 ---

@@ -3,8 +3,7 @@ comments : true
 date : 2018-04-09
 title : "Fail-fast Validations com Pipeline Behavior no MediatR e ASP.Net Core"
 description : "Veja como implementar Fail-Fast Validations com MediatR em uma aplicação ASP.Net Core"
-tags : ["aspnet","aspnetcore", "mediatr", "design patterns"]
-categories : ["Desenvolvimento", "ASP.Net"]
+tags : ["aspnetcore", "mediatr", "design patterns"]
 nomenu : "main"
 image : ""
 ---

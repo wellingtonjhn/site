@@ -4,7 +4,6 @@ date : 2017-11-22
 title : "Automatizando Tarefas de build, teste e deploy de pacotes Nuget com Cake e .Net Core"
 description : "Aprenda a automatizar tarefas com Cake"
 tags : ["cicd", "cake", "dotnetcore", "build", "test", "nuget"]
-categories : ["Desenvolvimento", "CICD"]
 nomenu : "main"
 image : "https://cdn-images-1.medium.com/max/2398/1*uNsT1gBs9JRD4_72-cQPvA.png"
 ---

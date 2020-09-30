@@ -28,7 +28,7 @@ canonifyurls          = true
   author              = "Wellington Nascimento"
   authorEmail         = "wellington.jhn@gmail.com"
   authorAvatar        = "https://www.gravatar.com/avatar/4707efea5c9967b930833d088b04d4e2?s=300"
-  authorDescription   = ".Net Developer"
+  authorDescription   = ""
 
   pageNotFoundTitle   = "404 - Page not found"
 
@@ -42,12 +42,12 @@ canonifyurls          = true
 [[menu.main]]
   name = "Home"
   url = "/"
-  weight = 200
+  weight = 1000
 
-# [[menu.main]]
-#   name = "Categorias"
-#   url = "/categories/"
-#   weight = 99
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 999
 
 [params.integrations]
   addThis = "ra-5ab436a5f03571e6"

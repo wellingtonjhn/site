@@ -7,7 +7,7 @@ share = false
 title = "Sobre"
 type = "page"
 [menu.main]
-weight = 111
+weight = 2
 +++
 
 {{< profile >}}
@@ -20,9 +20,15 @@ Alguns artigos desse blog também foram publicados em outros portais especializa
 
 Também possuo uma versão dos meus artigos no [Medium](https://medium.com/@wellingtonjhn), onde tenho uma boa audiência.
 
-Todo o conteúdo desse site, técnico ou não, é apenas minha opinião e a forma como as coisas deram certo para mim. Você pode ter opiniões e experiências diferentes, e está tudo bem. :)
+Todo o conteúdo desse blog, técnico ou não, reflete apenas minha opinião, experiências e a forma como as coisas deram certo para mim. Você pode ter opiniões e experiências diferentes, e está tudo bem. :)
 
-Ahh.. não deixe de se inscrever abaixo para receber minhas atualizações.
+Construído com:
+    [Hugo](https://gohugo.io/),
+    [Netlify](https://www.netlify.com/),
+    [Disqus](https://disqus.com/),
+    [Mailchimp](https://mailchimp.com/),
+    [AddThis](https://www.addthis.com/)
+
 
 ### Sobre mim
 
@@ -40,3 +46,5 @@ Sou adepto de boas práticas de programação, código limpo, e gosto de horári
 ### Contato
 
 Dúvidas? Sugestões? Sinta-se livre para me [enviar uma mensagem](https://www.wellingtonjhn.com/contact/).
+
+Não deixe de se inscrever abaixo para receber minhas atualizações.

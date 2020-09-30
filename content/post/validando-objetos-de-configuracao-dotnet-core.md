@@ -4,7 +4,6 @@ date : 2018-09-08
 title : "Validando Objetos de Configuração no .Net Core"
 description : "Veja como validar objetos de configuração no .Net Core"
 tags : ["dotnetcore","aspnetcore", "configuration", "options pattern"]
-categories : ["Desenvolvimento", "ASP.Net"]
 nomenu : "main"
 image : "https://cdn-images-1.medium.com/max/8512/1*e7O7A5rM79ng6b8Dc3EbEg.jpeg"
 ---

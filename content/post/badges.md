@@ -4,7 +4,6 @@ date : 2018-01-05
 title : "Badges"
 description : "Saiba como adicionar badges em seus arquivos de Readme"
 tags : ["badges"]
-categories : ["Desenvolvimento"]
 nomenu : "main"
 image : ""
 ---

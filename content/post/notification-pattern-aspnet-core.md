@@ -3,8 +3,7 @@ comments : true
 date : 2018-11-25
 title : "Não lance Exceptions em seu Domínio… Use Notifications!"
 description : "Aprenda a usar o padrão Notifications em seu domínio"
-tags : ["aspnet", "aspnetcore", "notification pattern", "design patterns"]
-categories : ["Desenvolvimento", "ASP.Net"]
+tags : ["aspnetcore", "notification pattern", "design patterns"]
 nomenu : "main"
 image : "https://cdn-images-1.medium.com/max/6400/1*1JRIBJZtMRT8U6NfoDhbcA.jpeg"
 ---

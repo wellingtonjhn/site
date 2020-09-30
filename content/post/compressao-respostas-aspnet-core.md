@@ -3,8 +3,7 @@ comments : true
 date : 2018-03-17
 title : "Compressão de Respostas em APIs ASP.Net Core"
 description : "Aprenda a comprimir as respostas de suas APIs"
-tags : ["aspnet","aspnetcore", "compression"]
-categories : ["Desenvolvimento", "ASP.Net"]
+tags : ["aspnetcore", "compression"]
 nomenu : "main"
 image : "https://cdn-images-1.medium.com/max/1375/1*Z3dPy3OGwFAYtwzRFF7E2g.jpeg"
 ---

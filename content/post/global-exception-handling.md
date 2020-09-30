@@ -3,8 +3,7 @@ comments : true
 date : 2018-11-05
 title : "Tratamento Global de Exceptions no ASP.Net Core"
 description : "Aprenda a capturar todas as Exceptions de sua aplicação"
-tags : ["aspnet","aspnetcore", "global-exception-handling", "exceptions"]
-categories : ["Desenvolvimento", "ASP.Net"]
+tags : ["aspnetcore", "exception-handling"]
 nomenu : "main"
 image : "https://cdn-images-1.medium.com/max/2000/0*f8VaTl-csq_uHv4b.png"
 ---

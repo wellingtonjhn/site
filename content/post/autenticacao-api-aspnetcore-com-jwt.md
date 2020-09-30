@@ -3,8 +3,7 @@ comments : true
 date : 2018-05-02
 title : "Autenticação em APIs ASP.Net Core com JWT"
 description : "Aprenda a criar uma API de autenticação com ASP.Net Core"
-tags : ["aspnet", "aspnetcore", "jwt", "token", "auth", "json web token"]
-categories : ["Desenvolvimento", "ASP.Net Core", "Segurança", "JWT"]
+tags : ["aspnetcore", "jwt", "auth", "json web token"]
 nomenu : "main"
 image : "https://cdn-images-1.medium.com/max/6398/1*38zLFl8Bq_KvP8CruBQWBw.jpeg"
 ---

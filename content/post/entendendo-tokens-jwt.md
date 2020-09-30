@@ -3,8 +3,7 @@ comments : true
 date : 2018-02-26
 title : "Entendendo tokens JWT"
 description : "Neste artigo você irá conhecer os principais conceitos sobre tokens JWT"
-tags : ["jwt", "token", "auth", "json web token"]
-categories : ["Desenvolvimento", "Segurança", "JWT"]
+tags : ["jwt", "auth", "json web token"]
 nomenu : "main"
 image : "https://cdn-images-1.medium.com/max/1100/1*Nnu-OC1BbymgvpOiY9nvwg.png"
 ---
