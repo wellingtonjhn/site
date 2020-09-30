@@ -44,10 +44,10 @@ canonifyurls          = true
   url = "/"
   weight = 1000
 
-[[menu.main]]
-  name = "Tags"
-  url = "/tags/"
-  weight = 999
+#[[menu.main]]
+# name = "Tags"
+#  url = "/tags/"
+#  weight = 999
 
 [params.integrations]
   addThis = "ra-5ab436a5f03571e6"
