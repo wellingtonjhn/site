@@ -37,6 +37,7 @@ O ASP.Net Core possui um Middleware nativo para tratamento de exceptions, que po
 {{< gist c18b2922b886b75ba6326e2c2a52b756 >}}
 
 Nesse exemplo, o que fizemos foi extender o comportamento padrão do método capturando a exception gerada, então gravamos um log de erro e retornamos uma mensagem para o usuário com HTTP Status Code 500 (Internal Server Error) em formato JSON. Veja que recebemos uma instância de **ILoggerFactory** via parâmetro do método como dependência para geração do log de erros.
+
 >  Parte da mensagem que será retornada para o client é a própria exception através do campo Detailed. Eu recomendo não retornar os detalhes da exception em uma aplicação real de produção, pois um usuário mal intencionado pode ver esses detalhes e descobrir brechas para atacar seu sistema. Em ambiente de desenvolvimento não vejo nada de errado em mostrar os detalhes das exceptions, até mesmo para ajudar a resolver os possíveis problemas mais rapidamente. Você pode facilmente verificar em qual ambiente sua aplicação está rodando usando a interface **IHostingEnvironment**.
 
 Para que seu método de extensão tenha efeito, será necessário chamá-lo na classe Startup dentro do método Configure.
